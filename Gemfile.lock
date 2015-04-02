@@ -155,7 +155,7 @@ DEPENDENCIES
   heroku (~> 3.30.3)
   jbuilder (~> 2.0)
   jquery-rails
-  pg (~> 0.18.1)
+  pg
   rails (= 4.1.5)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
